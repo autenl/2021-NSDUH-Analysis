@@ -20,3 +20,6 @@ populations of North Carolina (NC), the Southern Region of the United States (So
   Thirty five tables were cleaned and analyzed to reveal statistically significant differences in prevalence estimates between the populations of NC, the South, and the U.S, among corresponding age groups (12 - 17, 18 - 25, and 26+). Prevalence estimates were deemed significantly different if their 95% confidence intervals did not overlap. The three regions were only compared among corresponding age groups (e.g. NC: 18 - 25 was not compared with South: 12 - 17), and age groups were not compared within a single region.
 
   Tables 1 - 16, 18 - 28, and 32 listed prevalence estimates among people aged 12 or older. Tables 29 - 31 and 33 - 35 listed prevalence estimates among people aged 18 or older. Table 17 only lists prevalence estimates for one age group (people aged 12-20).
+
+## Files
+  The analysis files (R Markdown and HTML notebook) display the code and report of the results all in one document. The report files (R Markdown and PDF) display only the report of the results.
