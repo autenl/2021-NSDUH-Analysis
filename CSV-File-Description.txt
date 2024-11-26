@@ -1,0 +1,79 @@
+CSV File Description
+
+Files with a comma separated value (*.csv) extension are in plain text. They contain characters stored in a flat, nonproprietary format and can be opened by most computer programs. Each *.csv file contains a set of tabular data, with each record delineated by a line break and each field within a record delineated by a comma. A field that contains commas as part of its content has the additional delineation of a quote mark character before and after the field's contents. When a quote mark character is part of a field's content, it is included as two consecutive ""quote mark"" characters.
+
+Computers with Microsoft Excel installed open *.csv files in Excel by default, with the fields automatically arranged appropriately in columns. Other database programs also open *.csv files with the fields appropriately arranged.
+
+This zip archive holds 35 CSV files (i.e., "NSDUHsaeExcelTab##-2021.csv"), reflecting the 35 "Table #" tabs in the Excel file, and they contain the table title, table notes, column headings, and data.
+
+List of Tables
+
+Table 1. Illicit Drug Use in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 2. Marijuana Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 3. Marijuana Use in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 4. Perceptions of Great Risk from Smoking Marijuana Once a Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 5. First Use of Marijuana in the Past Year: Among People Aged 12 or Older at Risk for Initiation of Marijuana Use; by Age Group and State, Percentages, 2021
+
+Table 6. Illicit Drug Use Other Than Marijuana in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 7. Cocaine Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 8. Perceptions of Great Risk from Using Cocaine Once a Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 9. Heroin Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 10. Perceptions of Great Risk from Trying Heroin Once or Twice: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 11. Methamphetamine Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 12. Prescription Pain Reliever Misuse in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 13. Opioid Misuse in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 14. Alcohol Use in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 15. Binge Alcohol Use in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 16. Perceptions of Great Risk from Having Five or More Drinks of an Alcoholic Beverage Once or Twice a Week: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 17. Alcohol Use and Binge Alcohol Use in the Past Month: Among People Aged 12 to 20; by State, Percentages, 2021
+
+Table 18. Tobacco Product Use in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 19. Cigarette Use in the Past Month: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 20. Perceptions of Great Risk from Smoking One or More Packs of Cigarettes per Day: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 21. Drug Use Disorder in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 22. Pain Reliever Use Disorder in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 23. Opioid Use Disorder in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 24. Alcohol Use Disorder in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 25. Substance Use Disorder in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 26. Needing But Not Receiving Treatment at a Specialty Facility for Illicit Drug Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 27. Needing But Not Receiving Treatment at a Specialty Facility for Alcohol Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 28. Needing But Not Receiving Treatment at a Specialty Facility for Substance Use in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 29. Any Mental Illness in the Past Year: Among People Aged 18 or Older; by Age Group and State, Percentages, 2021
+
+Table 30. Serious Mental Illness in the Past Year: Among People Aged 18 or Older; by Age Group and State, Percentages, 2021
+
+Table 31. Received Mental Health Services in the Past Year: Among People Aged 18 or Older; by Age Group and State, Percentages, 2021
+
+Table 32. Major Depressive Episode in the Past Year: Among People Aged 12 or Older; by Age Group and State, Percentages, 2021
+
+Table 33. Had Serious Thoughts of Suicide in the Past Year: Among People Aged 18 or Older; by Age Group and State, Percentages, 2021
+
+Table 34. Made Any Suicide Plans in the Past Year: Among People Aged 18 or Older; by Age Group and State, Percentages, 2021
+
+Table 35. Attempted Suicide in the Past Year: Among People Aged 18 or Older; by Age Group and State, Percentages, 2021
