@@ -22,4 +22,4 @@ populations of North Carolina (NC), the Southern Region of the United States (So
   Tables 1 - 16, 18 - 28, and 32 listed prevalence estimates among people aged 12 or older. Tables 29 - 31 and 33 - 35 listed prevalence estimates among people aged 18 or older. Table 17 only lists prevalence estimates for one age group (people aged 12-20).
 
 ## Files
-  The analysis files (R Markdown and HTML notebook) display the code and report of the results all in one document. The report files (R Markdown and PDF) display only the report of the results.
+  The analysis files (R Markdown and HTML notebook) display the code and report of the results all in one document. The report files (R Markdown and PDF) display only the report of the results. All source data from the 2021 NSDUH is included in the CSV files, alongside a file description document.
